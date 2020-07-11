@@ -4,6 +4,7 @@ localhost
 detectportal.firefox.com
 ocsp.pki.goog
 safebrowsing.googleapis.com
+update.googleapis.com
 firefox.settings.services.mozilla.com
 push.services.mozilla.com
 search.services.mozilla.com
