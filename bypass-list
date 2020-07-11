@@ -1,7 +1,12 @@
 127.0.0.1
 ::1
 localhost
+img-prod-cms-rt-microsoft-com.akamaized.net
+business.bing.com
+www.bing.com
 detectportal.firefox.com
+ocws.officeapps.live.com
+odc.officeapps.live.com
 ocsp.pki.goog
 safebrowsing.googleapis.com
 update.googleapis.com
@@ -9,3 +14,13 @@ firefox.settings.services.mozilla.com
 push.services.mozilla.com
 search.services.mozilla.com
 shavar.services.mozilla.com
+arc.msn.com
+blobs.officehome.msocdn.com
+browser.pipe.aria.microsoft.com
+edge.microsoft.com
+graph.microsoft.com
+ntp.www.office.com
+substrate.office.com
+ukwest1-mediap.svc.ms
+edge.activity.windows.com
+enterprise.activity.windows.com
