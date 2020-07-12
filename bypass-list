@@ -11,10 +11,14 @@ odc.officeapps.live.com
 ocsp.pki.goog
 safebrowsing.googleapis.com
 update.googleapis.com
+blocklists.settings.services.mozilla.com
 firefox.settings.services.mozilla.com
 push.services.mozilla.com
 search.services.mozilla.com
 shavar.services.mozilla.com
+content-signature-2.cdn.mozilla.net
+aus5.mozilla.org
+versioncheck-bg.addons.mozilla.org
 arc.msn.com
 blobs.officehome.msocdn.com
 browser.pipe.aria.microsoft.com
