@@ -14,10 +14,13 @@ update.googleapis.com
 blocklists.settings.services.mozilla.com
 firefox.settings.services.mozilla.com
 push.services.mozilla.com
+classify-client.services.mozilla.com
 search.services.mozilla.com
 shavar.services.mozilla.com
+firefox-settings-attachments.cdn.mozilla.net
 content-signature-2.cdn.mozilla.net
 aus5.mozilla.org
+services.addons.mozilla.org
 versioncheck-bg.addons.mozilla.org
 arc.msn.com
 blobs.officehome.msocdn.com
