@@ -15,8 +15,12 @@ edge.microsoft.com
 enterprise.activity.windows.com
 firefox.settings.services.mozilla.com
 firefox-settings-attachments.cdn.mozilla.net
+getpocket.cdn.mozilla.net
 graph.microsoft.com
 img-prod-cms-rt-microsoft-com.akamaized.net
+incoming.telemetry.mozilla.org
+location.services.mozilla.com
+normandy.cdn.mozilla.net
 ntp.www.office.com
 ocsp.digicert.com
 ocsp.pki.goog
@@ -27,6 +31,7 @@ safebrowsing.googleapis.com
 search.services.mozilla.com
 services.addons.mozilla.org
 shavar.services.mozilla.com
+snippets.cdn.mozilla.net
 substrate.office.com
 ukwest1-mediap.svc.ms
 update.googleapis.com
